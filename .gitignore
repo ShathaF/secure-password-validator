@@ -1,0 +1,18 @@
+# Compiled output
+out/
+*.class
+
+# Local database created at runtime (may contain test users)
+*.db
+
+# macOS / IDE
+.DS_Store
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.iml
+
+# Course presentation (not part of the public repo)
+*.pptx
